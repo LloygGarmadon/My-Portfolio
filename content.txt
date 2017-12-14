@@ -1,0 +1,25 @@
+Header: Mr_Nobody1166
+
+Tagline: I'm a kid (until 2019) who loves to code using CodeSchool, and will probably code when grown up.
+
+Projects:
+
+- My Minecraft Blog https://mymcblogsite.wordpress.com/
+- Life of Mr_Nobody1166 http://mrnobody1166.blogspot.com/
+
+Badges:
+
+https://www.codeschool.com/users/Mr_Nobody1166
+
+Skills:
+
+- HTML (my favorite and primary language)
+- CSS
+- SVG (a little)
+- JavaScript (a little)
+- Python (quite a bit, not too much though)
+- Java (close to none)
+
+Footer:
+
+- Email

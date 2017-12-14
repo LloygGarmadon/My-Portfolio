@@ -1,0 +1,77 @@
+html, body, h1, h2, h3, h4, p, div, ul, ol, li {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  color: #fff;
+  width: 700px;
+  margin: 0 auto;
+}
+
+h2 strong {
+  font-weight: 400;
+}
+
+h2 em {
+  font-weight: 400;
+}
+
+.header {
+  background-color: #999999;
+}
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  text-align: center;
+  border-bottom: 1px solid #555555;
+  margin: 20px 0 20px 0;
+}
+
+.tagline {
+  background-color: black;
+  padding: 20px 0 20px 0;
+}
+
+.projects {
+  width: 308px;
+  margin: 0 auto;
+}
+
+.projects ul {
+  list-style-type: none;
+}
+
+.projects li {
+  margin-bottom: 10px;
+}
+
+.badges ul {
+  list-style-type: none;
+}
+
+.badges li {
+  margin-bottom: 10px;
+}
+
+.badges img {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
+}
